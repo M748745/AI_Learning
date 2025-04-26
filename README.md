@@ -1,1 +1,1 @@
-This folder to Show important Ref for GenAI Domains
+This folder to Show important Ref in GenAI Domain
